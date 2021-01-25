@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 16" width="12" height="16">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #add136 } 
+	</style>
+	<g id="Content">
+		<g id="Sec 4">
+			<g id="Projects">
+				<g id="project 1">
+					<path id="Shape 646 copy 3" class="shp0" d="M0 14.86L0 1.13C0 0.69 0.2 0.31 0.53 0.13C0.83 -0.05 1.19 -0.03 1.48 0.16C2.18 0.62 11.07 6.72 11.52 7.04C11.82 7.25 12 7.61 12 8.01C12 8.4 11.82 8.76 11.52 8.97C10.65 9.56 1.92 15.54 1.51 15.82C1.2 16.03 0.85 16.06 0.55 15.89C0.22 15.7 0 15.3 0 14.86Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
